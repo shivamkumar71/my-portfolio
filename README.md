@@ -1,7 +1,7 @@
 <div align="center">
   <h1>My Portfolio</h1>
   <p><strong>A Modern Personal Portfolio Website</strong></p>
-  <img src="assets/img/profile/profile3.jpg" alt="SnapFolio Demo" width="300"/>
+  <img src="assets/img/profile/profile3.jpg" alt="my portfolio Demo" width="300"/>
 </div>
 
 ---
@@ -37,7 +37,7 @@
 
 ## Demo
 
-> **Live Demo:** _[Add your live site link here]_  
+> **Live Demo:** https://shivam-kumar71.netlify.app/
 > **Screenshots:**
 > ![Portfolio Screenshot](assets/img/profile/shivam.jpg)
 
