@@ -110,7 +110,7 @@ This project and its source code are the intellectual property of Shivam Kumar. 
 
 > **Note:** If you want to use the complete portfolio template for your own project or for redistribution, please contact the author for permission first.
 
-## Contact
+## Contact Me
 
 - **Author:** Shivam Kumar
 - **GitHub:** [shivamkumar71](https://github.com/shivamkumar71)
