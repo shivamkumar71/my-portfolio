@@ -37,7 +37,7 @@
 
 ## Demo
 
-> **Live Demo:** https://shivam-kumar71.netlify.app/
+> **Live Demo:** https://shivam71.netlify.app/
 > **Screenshots:**
 > ![Portfolio Screenshot](assets/img/profile/screen.jpg)
 
